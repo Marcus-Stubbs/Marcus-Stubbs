@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Port Scans<b>
-  -<b>Using Microsoft Azure in conjunction with VMware I ran a port scan on an old fireox server with the help of Nessuss.<b>
+  -[Using Microsoft Azure in conjunction with VMware I ran a port scan on an old fireox server with the help of Nessuss.]
 
 - <b>Risk Management</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
