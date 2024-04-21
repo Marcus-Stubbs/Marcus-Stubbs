@@ -1,14 +1,5 @@
-<h1>Hi, I'm Marcus!
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+### Hi there👋
 
-- <b>Port Scans<b>
-  -[Using Microsoft Azure in conjunction with VMware I ran a port scan on an old fireox server with the help of Nessuss.]
+I am Marcus Stubbs from Boyds, Maryland and I am an aspiring IT/Cybersecurity Specialist. I enjoy challenging myself by learning new coding langauges such as python and HTML. I also enjoy practicing running port scans to detect vulnerabilities on network servers within virtual environments such as VMware and Microsoft Azure.
 
-- <b>Risk Management</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
- 
-<h2>📃Certifications:</h2>
-
-  - <b>Security Plus (Expected 5/24)<b>
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Stubbs)](https://github.com/anuraghazra/github-readme-stats)
