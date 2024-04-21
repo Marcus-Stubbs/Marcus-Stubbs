@@ -6,6 +6,6 @@
  
 <h2>📃Certifications:</h2>
 
-  - <b>Security Plus (Expected 1/24)<b>
+  - <b>Security Plus (Expected 5/24)<b>
 
 
